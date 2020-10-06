@@ -1,4 +1,0 @@
-dbo.JGbranch  学院
-dbo.JGTable1
- dbo.NewsArticle
-dbo.SysLog
